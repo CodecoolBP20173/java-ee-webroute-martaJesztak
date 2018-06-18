@@ -1,4 +1,4 @@
-package com.codecool.jesztak.handler;
+package com.codecool.jesztak.routes;
 
 public class Routes {
 

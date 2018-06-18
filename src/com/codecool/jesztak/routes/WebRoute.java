@@ -1,4 +1,4 @@
-package com.codecool.jesztak.handler;
+package com.codecool.jesztak.routes;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

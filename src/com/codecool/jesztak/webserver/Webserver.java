@@ -1,7 +1,7 @@
 package com.codecool.jesztak.webserver;
 
-import com.codecool.jesztak.handler.Routes;
-import com.codecool.jesztak.handler.WebRoute;
+import com.codecool.jesztak.routes.Routes;
+import com.codecool.jesztak.routes.WebRoute;
 import com.sun.net.httpserver.HttpServer;
 
 import java.io.IOException;
